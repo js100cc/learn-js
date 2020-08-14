@@ -64,3 +64,7 @@ function charfreq(str) {
     console.log(`${chr.toUpperCase()}: ${units} ${percentage.toFixed(2)}%`);
   });
 }
+
+/* test chars
+ * 🦕🐪
+ */
